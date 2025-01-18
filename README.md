@@ -30,29 +30,11 @@ By leveraging machine learning, the model can analyze food images and accurately
 
 2. **Image Testing:**
    - Users can upload images of food to be classified.
-   - The model processes the images and predicts the food category based on learned patterns.
 
 3. **Results Display:**
-   - The model outputs the predicted food type along with a confidence score, indicating the likelihood of the prediction.
-
----
-
-## **🛠️ Setup Instructions**
-1. Ensure all required files, including the model and labels, are in the project directory.
-2. Upload the images you want to classify into the project folder.
-3. Run the model to classify the images and view the results.
-
----
-
-## **📂 Code**
-The source code is designed for ease of use and can be customized to enhance functionality.
-
----
-
-## **📝 License**
-This project is licensed under the **MIT License**, encouraging open-source collaboration and development.
+   - The model outputs the predicted food type along with a confidence score.
 
 ---
 
 ## **👤 Author**
-Created by **Jori**, this project highlights the power of AI in simplifying everyday tasks like food recognition. Contributions and suggestions for improvement are always welcome! 🌟
+Created by **Jori**
