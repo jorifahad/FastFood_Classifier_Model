@@ -11,6 +11,8 @@ By leveraging machine learning, the model can analyze food images and accurately
 
 ![Screenshot 2025-01-18 183051](https://github.com/user-attachments/assets/ce3c3a0d-952c-43c3-8d74-5150d78c348a)
 
+![image](https://github.com/user-attachments/assets/507c628b-4415-4659-b84b-d724a65fc9cf)
+
 
 ## **🚀 Features**
 1. **AI-Powered Classification:** Utilizes a trained neural network for precise food classification.
